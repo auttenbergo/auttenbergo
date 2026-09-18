@@ -3,7 +3,8 @@ gvaro:~$ whoami
 Gigi Gvaramia — Software & DevOps Engineer · Tbilisi
 gvaro:~$ cat pitch.txt
 I build the platform and the things running on it.
-gvaro:~$ curl -L gvaro.dev    # the whole CV, from your terminal
+gvaro:~$ curl -L gvaro.dev   # the whole CV, from your terminal
+gvaro:~$ ssh ssh.gvaro.dev   # or over SSH
 ```
 
-**[gvaro.dev](https://gvaro.dev)** — my CV as a site you can read or `curl`.
+**[gvaro.dev](https://gvaro.dev)** — my CV as a site you can read, `curl`, or `ssh`.
