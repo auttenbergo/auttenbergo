@@ -11,3 +11,8 @@ gvaro:~$ ssh ssh.gvaro.dev                     # …over SSH
 ```
 
 **[gvaro.dev](https://gvaro.dev)** — read it in the browser, your terminal, or over SSH.
+
+Security: report via `gvaro.dev/.well-known/security.txt` (PGP-signed). The key is
+at `gvaro.dev/.well-known/pgp-key.txt` — verify it against this fingerprint:
+
+`A7B5 19B5 952B ED2F D7C5 3A29 725C 1DF5 1C31 A7AF`
